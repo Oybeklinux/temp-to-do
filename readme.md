@@ -25,18 +25,18 @@ Frontend qismi **Bootstrap 5** yordamida yozilgan.
 
 ## ⚙️ O‘rnatish
 1. Repository-ni clon qiling:
-   ```bash
-   git clone https://github.com/username/todo-django.git
-   cd todo-django
-```
+    ```bash
+    git clone https://github.com/username/todo-django.git
+    cd todo-django
+    ```
 
 2. Virtual environment yarating va aktivlashtiring:
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # Linux/Mac
-   venv\Scripts\activate      # Windows
-   ```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # Linux/Mac
+    venv\Scripts\activate      # Windows
+    ```
 
 3. Kerakli kutubxonalarni o‘rnating:
 
